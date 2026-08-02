@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "posts": [],
+  "chat": [],
+  "config": {
+    "github": {
+      "owner": "",
+      "repo": "",
+      "token": ""
+    },
+    "notifications": false
+  }
+}
