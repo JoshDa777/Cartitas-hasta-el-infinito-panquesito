@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "posts": [],
+  "chat": [],
+  "config": {
+    "firebase": {
+      "apiKey": "AIzaSyBF3Cld6bh-hrEPBdfUXjZtvzHSzxUn5Bs",
+      "authDomain": "cartas-hasta-el-panquesito.firebaseapp.com",
+      "databaseURL": "https://cartas-hasta-el-panquesito-default-rtdb.firebaseio.com",
+      "projectId": "cartas-hasta-el-panquesito",
+      "storageBucket": "cartas-hasta-el-panquesito.firebasestorage.app"
+    },
+    "notifications": true
+  }
+}

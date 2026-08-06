@@ -1,0 +1,24 @@
+{
+  "name": "Cartas hasta el Infinito Panquesito",
+  "short_name": "Panquesito",
+  "description": "Nuestro rincón de recuerdos: cartas, anécdotas, historias y archivos de nuestra vida juntos",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#12121f",
+  "theme_color": "#e91e63",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' fill='%23e91e63'/><text x='50' y='70' font-size='60' text-anchor='middle'>💖</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' fill='%232196f3'/><text x='50' y='70' font-size='60' text-anchor='middle'>💙</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
