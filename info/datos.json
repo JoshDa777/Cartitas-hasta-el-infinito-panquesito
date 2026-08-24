@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "posts": [],
+  "chat": [],
+  "config": {
+    "github": {
+      "owner": "JoshDa777",
+      "repo": "Cartitas-hasta-el-infinito-panquesito",
+      "token": "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"
+    },
+    "notifications": true
+  }
+}
